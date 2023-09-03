@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**PradeepThapa/PradeepThapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Pradeep
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm deeply passionate about the dynamic and ever-evolving world of Data Science and Machine Learning. Here, you'll discover a collection of my work, projects, and contributions that reflect my dedication to these exciting fields.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm deeply passionate about the dynamic and ever-evolving world of Data Science and Machine Learning. Here, you'll discover a collection of my work, projects, and contributions that reflect my dedication to these exciting fields. 📊🤖
+
+Feel free to explore my repositories and get in touch if you have any questions or would like to connect.🌟
+
+## Skills
+
+- Programming Languages: Python, SQL, R
+- Web Development: Django, Flask
+- Data Science and Machine Learning: TensorFlow, Scikit-Learn, PyTorch, OpenCV
+- Visualisation: Matplotlib, Seaborn, Plotly
+
+## Contact
+
+- Email: [pkthapa@outlook.com](pkthapa@outlook.com)
+- LinkedIn: [Pradeep Thapa](https://www.linkedin.com/in/pradeepkumarthapa/)
+
+---
+
+Feel free to explore my repositories and connect with me. I look forward to collaborating and sharing knowledge with the GitHub community!
